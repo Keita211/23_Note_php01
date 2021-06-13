@@ -10,6 +10,7 @@
 
 <form action="write.php" method="post">
 お名前：<input type="text" name="name"><br>
+年齢：<input type="text" name="age"><br>
 EMAIL：<input type="text" name="mail"><br>
 脱炭素のために一ヶ月に支払っても良い金額：<input type="text" name="money"><br><br>
  <input type="submit" value="送信">
